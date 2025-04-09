@@ -1,4 +1,4 @@
-# F1 Wing Basics - Beginner Project (FIrst Time In GitHub)
+# F1 Wing Basics - Beginner Project (First Time In GitHub)
 
 This is a simple project where I explore the aerodynamics of a Formula 1 front wing.
 
