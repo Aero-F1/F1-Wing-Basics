@@ -12,3 +12,7 @@ This is a simple project where I explore the aerodynamics of a Formula 1 front w
 
 - F1 wings generate **downforce** by redirecting airflow.
 - The **angle of attack** affects pressure difference on top/bottom.
+
+## Parts of the Front Wing
+
+### 
