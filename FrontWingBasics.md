@@ -16,6 +16,8 @@ This is a simple project where I explore the aerodynamics of a Formula 1 front w
 ## Parts of the Front Wing
 ![Fig03](https://github.com/user-attachments/assets/2ad1f00c-8cb4-4f29-a632-c2ff80115f69)
 
+- The front wing (or the main plane) is suspended from the nose and runs along the entire length of the Formula One car. To this main plane, adjustable flaps are attached, and at the ends of the main plane, the endplates are attached
+
 ### **Endplates**
 
 - They control the flow of air around the Formula One car by redirecting the airflow around the tires
